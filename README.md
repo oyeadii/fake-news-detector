@@ -57,9 +57,9 @@ On macOS and Linux:
 3. The application will display whether the news article is "Real" or "Fake."
    
 ## Technology Stack
-Flask: Web application framework
-Python: Language for machine learning and web development
-Scikit-learn: Machine learning library for model training and prediction
-Numpy and Pandas: Data processing libraries
+- Flask: Web application framework
+- Python: Language for machine learning and web development
+- Scikit-learn: Machine learning library for model training and prediction
+- Numpy and Pandas: Data processing libraries
 
 ### Thank you for using newsLime!

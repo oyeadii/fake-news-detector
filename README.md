@@ -22,7 +22,7 @@ Follow these steps to get the newsLime web application up and running on your lo
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/newsLime.git
+   git clone https://github.com/oyeadii/newsLime.git
 ```
 2. Change to the project directory:
 ```bash
